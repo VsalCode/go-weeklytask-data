@@ -1,0 +1,122 @@
+[
+  {
+    "No": "1",
+    "Name": "Nasi Padang",
+    "Price": 12000,
+    "Category": "food"
+  },
+  {
+    "No": "2",
+    "Name": "Fried Chicken",
+    "Price": 7000,
+    "Category": "food"
+  },
+  {
+    "No": "3",
+    "Name": "Matcha",
+    "Price": 7000,
+    "Category": "drink"
+  },
+  {
+    "No": "4",
+    "Name": "Fried Rice",
+    "Price": 15000,
+    "Category": "food"
+  },
+  {
+    "No": "5",
+    "Name": "Ice Tea",
+    "Price": 5000,
+    "Category": "drink"
+  },
+  {
+    "No": "6",
+    "Name": "Coffee",
+    "Price": 10000,
+    "Category": "drink"
+  },
+  {
+    "No": "7",
+    "Name": "Soto Ayam",
+    "Price": 10000,
+    "Category": "food"
+  },
+  {
+    "No": "8",
+    "Name": "Mango Juice",
+    "Price": 8000,
+    "Category": "drink"
+  },
+  {
+    "No": "9",
+    "Name": "Potato Chips",
+    "Price": 5000,
+    "Category": "snack"
+  },
+  {
+    "No": "10",
+    "Name": "Chocolate Cake",
+    "Price": 12000,
+    "Category": "dessert"
+    },
+    {
+    "No": "11",
+    "Name": "Nasi Goreng Seafood",
+    "Price": 18000,
+    "Category": "food"
+    },
+    {
+    "No": "12",
+    "Name": "Lemon Tea",
+    "Price": 6000,
+    "Category": "drink"
+    },
+    {
+    "No": "13",
+    "Name": "Cheese Sticks",
+    "Price": 7000,
+    "Category": "snack"
+    },
+    {
+    "No": "14",
+    "Name": "Pudding",
+    "Price": 8000,
+    "Category": "dessert"
+    },
+    {
+    "No": "15",
+    "Name": "Beef Rendang",
+    "Price": 15000,
+    "Category": "food"
+    },
+    {
+    "No": "16",
+    "Name": "Orange Juice",
+    "Price": 7000,
+    "Category": "drink"
+    },
+    {
+    "No": "17",
+    "Name": "Popcorn",
+    "Price": 6000,
+    "Category": "snack"
+    },
+    {
+    "No": "18",
+    "Name": "Ice Cream",
+    "Price": 10000,
+    "Category": "dessert"
+    },
+    {
+    "No": "19",
+    "Name": "Chicken Satay",
+    "Price": 12000,
+    "Category": "food"
+    },
+    {
+    "No": "20",
+    "Name": "Milkshake",
+    "Price": 9000,
+    "Category": "drink"
+    }
+  ]
